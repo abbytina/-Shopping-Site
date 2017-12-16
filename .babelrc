@@ -1,0 +1,8 @@
+{
+    "presets":["es2015"],
+    // 图钉工具 按需加载组件
+    "plugins": [["import", {
+        "libraryName": "iview",
+        "libraryDirectory": "src/components"
+      }]]
+}
